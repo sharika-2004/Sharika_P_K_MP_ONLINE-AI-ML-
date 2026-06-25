@@ -112,7 +112,6 @@ Adult-Census-Income/
 ├── Adult_Census_Income.ipynb
 ├── adult_income_results.csv
 ├── README.md
-└── requirements.txt
 ```
 
 ---
